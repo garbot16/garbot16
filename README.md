@@ -1,6 +1,10 @@
 - 👋 Hi, I'm Tegar 
 
 CONTACT ME📲
+[![Instagram](https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/inigar16._)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/excrybaby)
+
+
 
 [![Instagram ](https://img.shields.io/badge/Instagram-30302f?style=for-the-badge&logo=Instagram)](https://inistagram.com/inigar16._)
 [![Telegram](https://img.shields.io/badge/Inigar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/inigar)
